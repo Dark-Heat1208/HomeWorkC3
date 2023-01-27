@@ -1,0 +1,15 @@
+C:\Users\Артём\Desktop\HomeWorkC3\bin\Debug\net6.0\HomeWorkC3.exe
+C:\Users\Артём\Desktop\HomeWorkC3\bin\Debug\net6.0\HomeWorkC3.deps.json
+C:\Users\Артём\Desktop\HomeWorkC3\bin\Debug\net6.0\HomeWorkC3.runtimeconfig.json
+C:\Users\Артём\Desktop\HomeWorkC3\bin\Debug\net6.0\HomeWorkC3.dll
+C:\Users\Артём\Desktop\HomeWorkC3\bin\Debug\net6.0\HomeWorkC3.pdb
+C:\Users\Артём\Desktop\HomeWorkC3\obj\Debug\net6.0\HomeWorkC3.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\HomeWorkC3\obj\Debug\net6.0\HomeWorkC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Desktop\HomeWorkC3\obj\Debug\net6.0\HomeWorkC3.AssemblyInfoInputs.cache
+C:\Users\Артём\Desktop\HomeWorkC3\obj\Debug\net6.0\HomeWorkC3.AssemblyInfo.cs
+C:\Users\Артём\Desktop\HomeWorkC3\obj\Debug\net6.0\HomeWorkC3.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\HomeWorkC3\obj\Debug\net6.0\HomeWorkC3.dll
+C:\Users\Артём\Desktop\HomeWorkC3\obj\Debug\net6.0\refint\HomeWorkC3.dll
+C:\Users\Артём\Desktop\HomeWorkC3\obj\Debug\net6.0\HomeWorkC3.pdb
+C:\Users\Артём\Desktop\HomeWorkC3\obj\Debug\net6.0\HomeWorkC3.genruntimeconfig.cache
+C:\Users\Артём\Desktop\HomeWorkC3\obj\Debug\net6.0\ref\HomeWorkC3.dll
